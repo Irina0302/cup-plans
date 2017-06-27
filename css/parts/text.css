@@ -1,0 +1,22 @@
+.title {
+    margin: auto;
+    padding: 20px 0;
+    font-family: Lato, sans-serif;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 156px;
+    height: 115px;
+    color: #333333;
+}
+
+.subtitle {
+    font-family: Lato, sans-serif;
+    text-align: center;
+    padding: 40px 30px;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 26px;
+     color: #333333;
+}

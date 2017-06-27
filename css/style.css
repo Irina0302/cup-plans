@@ -1,0 +1,12 @@
+
+@import 'parts/container.css';
+@import 'parts/text.css';
+
+
+body {
+    min-height: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: black;
+}
